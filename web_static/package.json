@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Tinyu01/R578_Holdings/WEB_STATIC/index.html",
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.5"
   }
 }
